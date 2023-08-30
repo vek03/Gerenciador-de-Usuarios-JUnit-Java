@@ -1,0 +1,55 @@
+@options
+@packages
+-classpath
+'C:/Users/PC GAMER/.m2/repository/driver/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/PC GAMER/Downloads/crud_QTS/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/PC GAMER/Downloads/crud_QTS/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'crud_QTS 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/PC GAMER/Downloads/crud_QTS/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'crud_QTS 1.0-SNAPSHOT API'
+conexao
+controller
+model
+view
+C:\Users\PC GAMER\.m2\repository\driver\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar = 1666631162000
+C:\Users\PC GAMER\Downloads\crud_QTS\src\main\java = 1693285850193
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\allclasses-index.html = 1693364289255
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\allpackages-index.html = 1693364289278
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\copy.svg = 1693364289432
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\element-list = 1693364288393
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\help-doc.html = 1693364289393
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\index-all.html = 1693364289335
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\index.html = 1693364289142
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\jquery-ui.overrides.css = 1693364289458
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\member-search-index.js = 1693364289291
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\module-search-index.js = 1693364289282
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\overview-summary.html = 1693364289357
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\overview-tree.html = 1693364289134
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\package-search-index.js = 1693364289284
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\script.js = 1693364289430
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\search-page.js = 1693364289440
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\search.html = 1693364289350
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\search.js = 1693364289437
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\serialized-form.html = 1693364288879
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\stylesheet.css = 1693364289405
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\tag-search-index.js = 1693364289294
+C:\Users\PC GAMER\Downloads\crud_QTS\target\apidocs\type-search-index.js = 1693364289287
